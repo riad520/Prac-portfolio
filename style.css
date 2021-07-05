@@ -90,8 +90,8 @@ footer p{
     background-color: rgba(96, 187, 187, 0.288);
     width: 1500px;
     height: 700px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 5%;
+    margin-right: 5%;
     padding: 2%;
 }
 .line{
