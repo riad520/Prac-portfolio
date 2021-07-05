@@ -89,11 +89,11 @@ footer p{
     border-radius: 10px;
     background-color: rgba(96, 187, 187, 0.288);
     width: auto;
-    height: 800px;
+    height: 650px;
     margin-left: 2%;
     margin-right: 2%;
     padding-bottom: 150px;
-    padding: 10px;
+    padding-left: 40px;
 }
 .line{
     border-left: 1px solid rgba(82, 82, 194, 0.151);
